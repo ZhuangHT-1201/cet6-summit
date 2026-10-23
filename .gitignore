@@ -1,0 +1,16 @@
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local editor settings
+.vscode/
+.idea/
+
+# Temporary files and local screenshots not intended for the project
+*.tmp
+*.log
+~$*
+
+# Local data exports
+CET6学习记录-*.json
